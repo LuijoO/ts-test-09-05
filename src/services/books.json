@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "date": "2019-01-01",
+    "category": "rainy",
+    "rate": "poor",
+    "description": "lindo lindo primer viaje, puro amor"
+  },
+  {
+    "id": 2,
+    "date": "2019-05-04",
+    "category": "sunny",
+    "rate": "good",
+    "description": "y este fue el segundo viaje"
+  },
+  {
+    "id": 1,
+    "date": "2022-07-02",
+    "category": "windy",
+    "rate": "good",
+    "description": "aca la tercera experiencia"
+  },
+  {
+    "id": 1,
+    "date": "2021-08-15",
+    "category": "cloudy",
+    "rate": "good",
+    "description": "cuarto gran viaje la vida es hermosa."
+  }
+]
